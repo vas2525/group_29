@@ -1,0 +1,6 @@
+CheckList Strusture
+
+1. ID
+2. Actions
+3. Expected Result
+4. Passed/Failed option
